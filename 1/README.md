@@ -13,6 +13,7 @@ Caso donde la variable "number2" es menor a la varialbe "number1" :
 
 
 Caso donde ambas varialbes son iguales : 
+
 ![image](https://user-images.githubusercontent.com/90481288/162597442-f7ea748d-428b-4e55-b72b-bb94cce51a1a.png)
 ![image](https://user-images.githubusercontent.com/90481288/162597450-e761d04a-34d0-4c4e-ada8-6272ada4925f.png)
 
